@@ -1,0 +1,15 @@
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\obj\Debug\net6.0\BezaoOOP.csproj.AssemblyReference.cache
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\obj\Debug\net6.0\BezaoOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\obj\Debug\net6.0\BezaoOOP.AssemblyInfoInputs.cache
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\obj\Debug\net6.0\BezaoOOP.AssemblyInfo.cs
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\obj\Debug\net6.0\BezaoOOP.csproj.CoreCompileInputs.cache
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\bin\Debug\net6.0\BezaoOOP.exe
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\bin\Debug\net6.0\BezaoOOP.deps.json
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\bin\Debug\net6.0\BezaoOOP.runtimeconfig.json
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\bin\Debug\net6.0\BezaoOOP.dll
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\bin\Debug\net6.0\ref\BezaoOOP.dll
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\bin\Debug\net6.0\BezaoOOP.pdb
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\obj\Debug\net6.0\BezaoOOP.dll
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\obj\Debug\net6.0\ref\BezaoOOP.dll
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\obj\Debug\net6.0\BezaoOOP.pdb
+C:\Users\Ogubuike Alexandra\source\repos\BezaoOOP\obj\Debug\net6.0\BezaoOOP.genruntimeconfig.cache
